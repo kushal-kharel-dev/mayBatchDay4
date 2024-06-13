@@ -18,6 +18,8 @@ public class HashMapDemo {
 		hm.put(null,"Nepal");
 		
 		System.out.println(hm);
+		
+		//this is a mapInterface project
 
 	}
 
